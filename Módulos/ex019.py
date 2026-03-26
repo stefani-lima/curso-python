@@ -1,5 +1,5 @@
-# Um professor quer sortear um de seus quatro alunos para apagar o quadro.
-# Faça um programa que ajude ele, lendo o nome deles e escolhendo o nome do escolhido.
+''' Um professor quer sortear um de seus quatro alunos para apagar o quadro.
+Faça um programa que ajude ele, lendo o nome deles e escolhendo o nome do escolhido. '''
 
 from random import choice
 aluno_1 = input('Digite o nome do aluno 1: ')
