@@ -3,23 +3,23 @@
 > Exercícios realizados no Curso de Python (80 horas)
 
 ## 📝 Primeiros Passos
-- [Exercício 01](Primeiros-passos/ex001.py) [x] Crie um programa que escreva "Olá, mundo!" na tela.
-- [Exercício 02](Primeiros-passos/ex002.py) [x] Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+- [Exercício 01](Primeiros%20passos/ex001.py) [x] Crie um programa que escreva "Olá, mundo!" na tela.
+- [Exercício 02](Primeiros%20passos/ex002.py) [x] Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 
 ## 📝 Tratando dados e fazendo contas
-- [Exercício 03](Tratando-dados-e-fazendo-contas/ex003.py) [x] Crie um programa que leia dois números e mostre a soma entre eles.
-- [Exercício 04](Tratando-dados-e-fazendo-contas/ex004.py) [x] Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações sobre ela.
-- [Exercício 05](Tratando-dados-e-fazendo-contas/ex005.py) [x] Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e antecessor.
-- [Exercício 06](Tratando-dados-e-fazendo-contas/ex006.py) [x] Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
-- [Exercício 07](Tratando-dados-e-fazendo-contas/ex007.py) [x] Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
-- [Exercício 08](Tratando-dados-e-fazendo-contas/ex008.py) [x] Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
-- [Exercício 09](Tratando-dados-e-fazendo-contas/ex009.py) [x] Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
-- [Exercício 10](Tratando-dados-e-fazendo-contas/ex010.py) [x] Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
-- [Exercício 11](Tratando-dados-e-fazendo-contas/ex011.py) [x] Faça um programa que leia a largura e a altura de uma parede em metros, calcule sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m2.
-- [Exercício 12](Tratando-dados-e-fazendo-contas/ex012.py) [x] Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
-- [Exercício 13](Tratando-dados-e-fazendo-contas/ex013.py) [x] Faça um que leia o salário de um funcionário e mostre o seu novo salário, com 15% de aumento.
-- [Exercício 14](Tratando-dados-e-fazendo-contas/ex014.py) [x] Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
-- [Exercício 15](Tratando-dados-e-fazendo-contas/ex015.py) [x] Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
+- [Exercício 03](Tratando%20dados%20e%20fazendo%20contas/ex003.py) [x] Crie um programa que leia dois números e mostre a soma entre eles.
+- [Exercício 04](Tratando%20dados%20e%20fazendo%20contas/ex004.py) [x] Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações sobre ela.
+- [Exercício 05](Tratando%20dados%20e%20fazendo%20contas/ex005.py) [x] Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e antecessor.
+- [Exercício 06](Tratando%20dados%20e%20fazendo%20contas/ex006.py) [x] Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+- [Exercício 07](Tratando%20dados%20e%20fazendo%20contas/ex007.py) [x] Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+- [Exercício 08](Tratando%20dados%20e%20fazendo%20contas/ex008.py) [x] Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+- [Exercício 09](Tratando%20dados%20e%20fazendo%20contas/ex009.py) [x] Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+- [Exercício 10](Tratando%20dados%20e%20fazendo%20contas/ex010.py) [x] Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
+- [Exercício 11](Tratando%20dados%20e%20fazendo%20contas/ex011.py) [x] Faça um programa que leia a largura e a altura de uma parede em metros, calcule sua área e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta, pinta uma área de 2m2.
+- [Exercício 12](Tratando%20dados%20e%20fazendo%20contas/ex012.py) [x] Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+- [Exercício 13](Tratando%20dados%20e%20fazendo%20contas/ex013.py) [x] Faça um que leia o salário de um funcionário e mostre o seu novo salário, com 15% de aumento.
+- [Exercício 14](Tratando%20dados%20e%20fazendo%20contas/ex014.py) [x] Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
+- [Exercício 15](Tratando%20dados%20e%20fazendo%20contas/ex015.py) [x] Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
 
 ## 📝 Módulos
 - [Exercício 16](Módulos/ex0016.py) [x] Crie um programa que leia um numero real qualquer pelo teclado e mostre na tela a sua porção inteira.
